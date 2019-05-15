@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import { Switch, Route} from  'react-router-dom'
 import getWeb3 from './getweb3'
 //import { ethers } from 'ethers'
 import  Transfer from './Transfer'
